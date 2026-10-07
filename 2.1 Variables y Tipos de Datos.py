@@ -1,0 +1,5 @@
+nombre = "Angel"          # str (cadena)
+edad = 20                # int (entero)
+estatura = 1.75          # float (flotante)
+es_estudiante = True     # bool (booleano)
+print(f"Nombre: {nombre}, Edad: {edad}, Estatura: {estatura}, Estudiante: {es_estudiante}")
